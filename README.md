@@ -1,6 +1,7 @@
 # SQL-Complex-Queries
+The following are a few examples of some SQL queries with Challenge Statement, solutions and details.
 
-| Challenge  | Solved using |Solution |
+| Challenge  | Statements Used |Solution |
 | ------------- | ------------- | ------------|
-|  aaaa [asas] (https://www.hackerrank.com/challenges/occupations/problem|https://www.hackerrank.com/challenges/occupations/problem)  | Content Cell  | zz|
-| Content Cell  | Content Cell  | zz|
+|[SQL Pivot Occupations](https://www.hackerrank.com/challenges/occupations/problem) | CASE, GROUPBY, ORDERBY  | zz|
+
