@@ -5,5 +5,5 @@ For detailed description of solution and solution click on the Solution link in 
 
 | Challenge  | Statements Used |Solution |
 | ------------- | ------------- | ------------|
-|[SQL Pivot Occupations](https://www.hackerrank.com/challenges/occupations/problem) | CASE, GROUPBY, ORDERBY  | zz|
+|[SQL Pivot Occupations](https://www.hackerrank.com/challenges/occupations/problem) | CASE, GROUPBY, ORDERBY  | [Solution Link](Occupation_Pivot.sql)|
 
