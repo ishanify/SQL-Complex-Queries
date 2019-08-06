@@ -5,5 +5,5 @@ For detailed description of solution and solution click on the Solution link in 
 
 | Challenge  | Highlights |Solution |
 | ------------- | ------------- | ------------|
-|[SQL Pivot Occupations (HackerRank Link)](https://www.hackerrank.com/challenges/occupations/problem) | CASE, GROUPBY, ORDERBY, Row Numbers  | [Solution Link](Occupation_Pivot.sql)|
+|[SQL Pivot Occupations (HackerRank Link)](https://www.hackerrank.com/challenges/occupations/problem) | CASE, GROUPBY, ORDERBY, Row Numbers Counts | [Solution Link](Occupation_Pivot.sql)|
 |[SQL Symmetric Pairs (HackerRank Link)](https://www.hackerrank.com/challenges/symmetric-pairs/problem)| UNION, CASE, symmetric Duplicate removal, SELF JOINS| [Solution Link](SymmetricPairs.sql)|
